@@ -1,5 +1,5 @@
 aid: microsoft-xbox
-name: Microsoft Xbox APIs
+name: Microsoft Xbox
 description: APIs for Xbox gaming platform including Xbox Live Services and Azure PlayFab backend for games.
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
