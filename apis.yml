@@ -1,4 +1,17 @@
 aid: microsoft-xbox
+name: Microsoft Xbox APIs
+description: APIs for Xbox gaming platform including Xbox Live Services and Azure PlayFab backend for games.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Gaming
+- Xbox
+- Xbox Live
+- PlayFab
+- Microsoft
+created: '2024-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 url: https://raw.githubusercontent.com/api-evangelist/microsoft-xbox/refs/heads/main/apis.yml
 apis:
   - aid: microsoft-xbox:xbox-live-api
@@ -52,5 +65,5 @@ common:
   - type: Support
     url: https://support.microsoft.com/
 maintainers:
-  - name: Kin Lane
+  - FN: Kin Lane
     email: kin@apievangelist.com
