@@ -4,11 +4,11 @@ description: APIs for Xbox gaming platform including Xbox Live Services and Azur
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Gaming
-- Xbox
-- Xbox Live
-- PlayFab
-- Microsoft
+  - Gaming
+  - Microsoft
+  - PlayFab
+  - Xbox
+  - Xbox Live
 created: '2024-01-01'
 modified: '2026-03-16'
 specificationVersion: '0.19'
@@ -17,10 +17,10 @@ apis:
   - aid: microsoft-xbox:xbox-live-api
     name: Xbox Live Services API
     tags:
-      - Gaming
-      - Xbox Live
       - Achievements
+      - Gaming
       - Multiplayer
+      - Xbox Live
     image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     baseURL: https://xbl.io/api/v2/
     humanURL: https://learn.microsoft.com/en-us/gaming/gdk/_content/gc/live/get-started/live-getstarted-nav
@@ -35,8 +35,8 @@ apis:
   - aid: microsoft-xbox:playfab-api
     name: Azure PlayFab API
     tags:
-      - Gaming
       - Backend
+      - Gaming
       - LiveOps
       - PlayFab
     image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
