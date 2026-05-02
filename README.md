@@ -1,40 +1,44 @@
 # Microsoft Xbox (microsoft-xbox)
-Xbox provides gaming APIs for Xbox Live Services and Azure PlayFab backend platform for player management, multiplayer, and LiveOps.
+APIs for Xbox gaming platform including Xbox Live Services and Azure PlayFab backend for games.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/microsoft-xbox/refs/heads/main/apis.yml)
 
 ## Tags:
 
- - Gaming, Xbox Live, PlayFab, Multiplayer, Achievements
+ - Gaming, Microsoft, PlayFab, Xbox, Xbox Live
 
 ## Timestamps
 
-- **Created:** 2026-03-13
-- **Modified:** 2026-03-13
+- **Created:** 2024-01-01
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### Xbox Live Services API
-Achievements, leaderboards, multiplayer, matchmaking, and social features for cross-platform gaming.
+Xbox Live Services provides APIs for achievements, leaderboards, multiplayer, matchmaking, social features, presence, and cloud saves. Game developers can integrate Xbox Live features for player identity, social gaming, and cross-platform play across Xbox, PC, and mobile.
 
 **Human URL:** [https://learn.microsoft.com/en-us/gaming/gdk/_content/gc/live/get-started/live-getstarted-nav](https://learn.microsoft.com/en-us/gaming/gdk/_content/gc/live/get-started/live-getstarted-nav)
 
+**Base URL:** https://xbl.io/api/v2/
+
 #### Tags:
 
- - Gaming, Xbox Live, Achievements, Multiplayer
+ - Achievements, Gaming, Multiplayer, Xbox Live
 
 #### Properties
 
 - [Documentation](https://learn.microsoft.com/en-us/gaming/gdk/_content/gc/live/get-started/live-getstarted-nav)
 
 ### Azure PlayFab API
-Complete backend platform for games with player management, economy, multiplayer, and analytics.
+Azure PlayFab provides a complete backend platform for games with APIs for player authentication, data management, economy and commerce, multiplayer servers, analytics, and LiveOps. It supports real-time game telemetry, A/B testing, player segmentation, and content updates without client patches.
 
 **Human URL:** [https://learn.microsoft.com/en-us/gaming/playfab/](https://learn.microsoft.com/en-us/gaming/playfab/)
 
+**Base URL:** https://{titleId}.playfabapi.com/
+
 #### Tags:
 
- - Gaming, Backend, LiveOps, PlayFab
+ - Backend, Gaming, LiveOps, PlayFab
 
 #### Properties
 
