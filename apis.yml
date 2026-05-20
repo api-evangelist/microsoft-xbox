@@ -54,6 +54,8 @@ apis:
       real-time game telemetry, A/B testing, player segmentation, and
       content updates without client patches.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/showcase/xbox
   - type: Portal
     url: https://developer.microsoft.com/en-us/games/
   - type: GitHubOrganization
