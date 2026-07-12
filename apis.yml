@@ -54,6 +54,10 @@ apis:
       real-time game telemetry, A/B testing, player segmentation, and
       content updates without client patches.
 common:
+  - type: VulnerabilityDisclosure
+    url: security/microsoft-xbox-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/microsoft-xbox-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/showcase/xbox
   - type: Portal
