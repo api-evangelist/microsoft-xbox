@@ -23,7 +23,7 @@ tags:
   - Xbox Live
 created: '2024-01-01'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 url: https://raw.githubusercontent.com/api-evangelist/microsoft-xbox/refs/heads/main/apis.yml
 apis:
   - aid: microsoft-xbox:xbox-live-api
