@@ -77,6 +77,8 @@ apis:
       real-time game telemetry, A/B testing, player segmentation, and
       content updates without client patches.
 common:
+  - type: Website
+    url: https://www.microsoft.com/
   - type: VulnerabilityDisclosure
     url: security/microsoft-xbox-vulnerability-disclosure.yml
   - type: DomainSecurity
@@ -96,3 +98,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-parent: microsoft
+x-relationship: product
