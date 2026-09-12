@@ -35,7 +35,7 @@ tags:
 created: '2024-01-01'
 modified: '2026-04-28'
 specificationVersion: '0.23'
-url: https://raw.githubusercontent.com/api-evangelist/microsoft-xbox/refs/heads/main/apis.yml
+url: https://developer.microsoft.com/en-us/games/
 apis:
   - aid: microsoft-xbox:xbox-live-api
     name: Xbox Live Services API
