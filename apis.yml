@@ -78,6 +78,12 @@ apis:
       real-time game telemetry, A/B testing, player segmentation, and
       content updates without client patches.
 common:
+  - type: Plans
+    url: plans/microsoft-xbox-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/microsoft-xbox-rate-limits.yml
+  - type: FinOps
+    url: finops/microsoft-xbox-finops.yml
   - type: Website
     url: https://www.microsoft.com/
   - type: VulnerabilityDisclosure
